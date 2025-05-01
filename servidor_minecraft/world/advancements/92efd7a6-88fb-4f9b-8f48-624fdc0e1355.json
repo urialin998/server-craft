@@ -4566,5 +4566,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-05-01 20:20:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-05-01 20:20:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
