@@ -5268,5 +5268,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-05-01 20:37:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
