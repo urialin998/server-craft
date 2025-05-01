@@ -6354,6 +6354,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-01 01:16:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-05-01 01:30:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-01 01:44:10 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-05-01 02:01:21 +0000"
@@ -6366,27 +6384,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-05-01 01:44:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2025-05-01 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-05-01 01:16:24 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:the_bloody_cult": {
-    "criteria": {
-      "the_bloody_cult_0": "2025-05-01 01:30:12 +0000"
     },
     "done": true
   },
