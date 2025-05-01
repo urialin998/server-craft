@@ -974,3 +974,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01May2025 04:19:01.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:45803] logged in with entity id 499 at (-3838.5022775948883, 78.0, 3356.7428429294923)
 [01May2025 04:19:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
 [01May2025 04:19:03.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[01May2025 04:33:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[01May2025 04:33:14.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Pure Imagination]
+[01May2025 04:33:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [Pure Imagination]
+[01May2025 04:33:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester fell from a high place
+[01May2025 04:33:56.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[01May2025 04:34:15.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! -0.06909264359819645,-10.68235688682072,0.0
+[01May2025 04:34:16.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O fell from a high place
+[01May2025 04:34:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Caniac No More]
+[01May2025 04:34:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Yellow Brick Road]
