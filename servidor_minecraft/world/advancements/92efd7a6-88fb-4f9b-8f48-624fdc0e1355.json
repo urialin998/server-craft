@@ -4458,75 +4458,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2025-05-01 04:56:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2025-05-01 04:43:51 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gum_worm": {
-    "criteria": {
-      "killed": "2025-05-01 06:07:58 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-05-01 04:45:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/frostmint_spear": {
-    "criteria": {
-      "deep_sea_sushi_roll": "2025-05-01 05:20:23 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:old_friends": {
-    "criteria": {
-      "old_friends_0": "2025-05-01 06:02:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2025-05-01 05:21:19 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-05-01 04:41:47 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
-    "criteria": {
-      "crumbs": "2025-05-01 04:50:58 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-05-01 04:39:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-05-01 04:57:46 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2025-05-01 05:25:15 +0000"
     },
     "done": true
   },
@@ -4536,9 +4470,45 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel_apple": {
+  "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
-      "mussel": "2025-05-01 05:11:25 +0000"
+      "cave_book": "2025-05-01 04:41:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-05-01 04:43:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-01 04:45:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-05-01 04:48:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-05-01 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-05-01 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-05-01 04:57:46 +0000"
     },
     "done": true
   },
@@ -4548,21 +4518,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-05-01 05:11:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-05-01 05:20:23 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/conversion_crucible": {
     "criteria": {
       "mussel": "2025-05-01 05:21:08 +0000"
     },
     "done": true
   },
-  "dungeons_and_combat:the_new_god_of_the_sun": {
+  "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
-      "the_new_god_of_the_sun_0": "2025-05-01 06:16:38 +0000"
+      "eat_candy_cane": "2025-05-01 05:21:19 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_town": {
+  "alexscaves:alexscaves/sack_of_sating": {
     "criteria": {
-      "gingerbread_town": "2025-05-01 04:48:56 +0000"
+      "mussel": "2025-05-01 05:25:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:old_friends": {
+    "criteria": {
+      "old_friends_0": "2025-05-01 06:02:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-05-01 06:07:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_new_god_of_the_sun": {
+    "criteria": {
+      "the_new_god_of_the_sun_0": "2025-05-01 06:16:38 +0000"
     },
     "done": true
   },
