@@ -51,6 +51,7 @@
       "minecraft:lukewarm_ocean": "2025-04-19 05:06:36 +0000",
       "minecraft:stony_shore": "2025-04-19 04:10:16 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:41:51 +0000",
+      "minecraft:grove": "2025-05-01 01:20:10 +0000",
       "minecraft:jagged_peaks": "2025-04-18 04:14:17 +0000",
       "minecraft:forest": "2025-04-17 05:40:05 +0000",
       "minecraft:desert": "2025-04-17 06:47:54 +0000",
@@ -58,6 +59,7 @@
       "minecraft:windswept_savanna": "2025-04-17 20:10:35 +0000",
       "minecraft:warm_ocean": "2025-04-17 07:00:47 +0000",
       "minecraft:flower_forest": "2025-04-17 05:51:31 +0000",
+      "minecraft:frozen_peaks": "2025-05-01 01:24:15 +0000",
       "minecraft:meadow": "2025-04-17 05:41:41 +0000",
       "minecraft:savanna": "2025-04-17 06:46:01 +0000",
       "minecraft:plains": "2025-04-17 05:41:13 +0000"
@@ -6343,6 +6345,48 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-04-30 22:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-01 01:16:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-01 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-05-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-01 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-05-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-01 01:16:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-05-01 01:30:12 +0000"
     },
     "done": true
   },
