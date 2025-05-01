@@ -248,6 +248,7 @@
       "minecraft:spider": "2025-04-22 02:23:22 +0000",
       "minecraft:creeper": "2025-04-27 20:08:51 +0000",
       "minecraft:phantom": "2025-04-28 03:02:24 +0000",
+      "minecraft:wither_skeleton": "2025-05-01 03:23:40 +0000",
       "minecraft:cave_spider": "2025-04-22 03:29:22 +0000",
       "minecraft:piglin": "2025-04-22 03:07:38 +0000",
       "minecraft:zombie": "2025-04-22 03:22:26 +0000"
@@ -5111,9 +5112,39 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 03:25:03 +0000"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2025-05-01 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-05-01 03:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 03:25:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-05-01 03:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 03:25:03 +0000"
     },
     "done": true
   },
