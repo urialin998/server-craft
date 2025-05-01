@@ -7580,6 +7580,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassis_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-01 22:36:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-01 22:14:50 +0000"
