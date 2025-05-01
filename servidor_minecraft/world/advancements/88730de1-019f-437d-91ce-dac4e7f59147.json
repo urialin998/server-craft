@@ -3489,10 +3489,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-18 03:02:59 +0000",
       "minecraft:nether_wastes": "2025-04-18 03:00:24 +0000",
+      "minecraft:soul_sand_valley": "2025-05-01 21:12:18 +0000",
       "minecraft:basalt_deltas": "2025-04-18 02:56:07 +0000",
       "minecraft:warped_forest": "2025-04-18 02:58:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
