@@ -1053,3 +1053,13 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [01May2025 03:30:27.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
 [01May2025 03:30:27.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 moved too quickly! 7.033983085042337,0.0,7.456581913324499
 [01May2025 03:30:27.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! 9.711160654298965,1.2491870787446828,3.2943514061016685
+[01May2025 03:32:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Lorem Ipsum]
+[01May2025 03:33:03.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01May2025 03:33:20.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[01May2025 03:33:28.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[01May2025 03:33:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[01May2025 03:34:03.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[01May2025 03:35:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
+[01May2025 03:35:14.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01May2025 03:36:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to YamadaH2O]
+[01May2025 03:38:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 drowned
