@@ -1112,3 +1112,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01May2025 22:59:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made JARAX23 a server operator]
 [01May2025 22:59:49.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
 [01May2025 22:59:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made JARAX23 no longer a server operator]
+[01May2025 23:00:16.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01May2025 23:00:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 23:00:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 23:00:23.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
+[01May2025 23:00:23.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
+[01May2025 23:00:23.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Server closed
+[01May2025 23:00:23.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[01May2025 23:00:23.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 23:00:25.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 23:00:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 23:00:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 23:00:38.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 23:00:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 23:00:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 23:00:38.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01May2025 23:00:39.188] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
