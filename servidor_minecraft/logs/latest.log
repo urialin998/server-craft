@@ -976,3 +976,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01May2025 20:19:42.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
 [01May2025 20:20:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [And I'm All Out of Gum]
 [01May2025 20:20:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Hooked on a Feeling]
+[01May2025 20:25:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to Mandester]
+[01May2025 20:26:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to Mandester]
+[01May2025 20:29:06.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 fell from a high place
