@@ -982,3 +982,89 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01May2025 21:32:54.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
 [01May2025 21:32:54.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 9.898267160017667,-0.24918707874468282,1.5852464382055587
 [01May2025 21:36:40.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[01May2025 21:48:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to JARAX23]
+[01May2025 21:49:22.187] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[01May2025 21:49:28.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:58331] logged in with entity id 14261 at (1738.2128929135881, 65.0, -1225.6404103128352)
+[01May2025 21:49:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[01May2025 21:54:04.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has completed the challenge [Subspace Bubble]
+[01May2025 21:54:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to All_D08]
+[01May2025 22:00:20.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[01May2025 22:00:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[01May2025 22:00:23.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[01May2025 22:00:23.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[01May2025 22:00:34.382] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[01May2025 22:00:37.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:33599] logged in with entity id 17287 at (-1998.032146377953, -46.0, 2299.699999988079)
+[01May2025 22:00:37.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[01May2025 22:01:15.494] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[01May2025 22:01:15.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[01May2025 22:01:15.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -10.038446843234397,0.5292232112077713,0.7703528587421715
+[01May2025 22:01:29.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.170.168.177:56205] logged in with entity id 17822 at (-2000.5067231688843, -46.0, 2295.5996368524734)
+[01May2025 22:01:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[01May2025 22:04:30.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5252ms or 105 ticks behind
+[01May2025 22:04:30.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -1.8889736011260538,1.0013359791121417,9.809385667215338
+[01May2025 22:04:30.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 moved too quickly! 2.760835755574817,1.0,9.589595344440113
+[01May2025 22:08:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [The Journey Begins]
+[01May2025 22:10:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[01May2025 22:10:55.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has completed the challenge [Hot Tourist Destinations]
+[01May2025 22:11:58.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:07.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.393] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.593] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.833] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:08.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.003] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.595] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:09.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:10.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:10.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:10.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:10.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:11.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.768] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:12.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.605] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:13.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:14.095] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:14.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:14.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:14.393] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01May2025 22:13:14.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

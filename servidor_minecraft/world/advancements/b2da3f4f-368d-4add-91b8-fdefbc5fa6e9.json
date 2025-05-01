@@ -3666,10 +3666,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-18 03:02:51 +0000",
       "minecraft:nether_wastes": "2025-04-18 03:00:12 +0000",
+      "minecraft:soul_sand_valley": "2025-05-01 22:10:55 +0000",
       "minecraft:basalt_deltas": "2025-04-18 01:33:24 +0000",
       "minecraft:warped_forest": "2025-04-18 02:57:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
@@ -6387,6 +6388,24 @@
   "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2025-05-01 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-01 22:16:58 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-05-01 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-05-01 22:12:50 +0000"
     },
     "done": true
   },

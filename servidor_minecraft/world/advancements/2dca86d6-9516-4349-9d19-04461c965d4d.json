@@ -5274,6 +5274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 21:50:40 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2025-05-01 21:29:27 +0000"
