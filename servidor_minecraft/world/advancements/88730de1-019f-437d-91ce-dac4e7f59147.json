@@ -827,6 +827,7 @@
       "minecraft:pillager": "2025-04-20 19:17:45 +0000",
       "minecraft:skeleton": "2025-04-17 06:09:17 +0000",
       "minecraft:hoglin": "2025-04-18 03:16:24 +0000",
+      "minecraft:magma_cube": "2025-05-02 19:19:57 +0000",
       "minecraft:spider": "2025-04-17 06:12:02 +0000",
       "minecraft:piglin_brute": "2025-04-20 21:03:52 +0000",
       "minecraft:creeper": "2025-04-17 19:58:23 +0000",
@@ -7799,6 +7800,24 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-01 23:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-02 19:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-02 19:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-02 19:24:23 +0000"
     },
     "done": true
   },

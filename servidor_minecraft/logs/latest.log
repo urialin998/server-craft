@@ -972,3 +972,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02May2025 18:29:33.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.0
 [02May2025 19:18:42.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
 [02May2025 19:19:00.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[02May2025 19:22:24.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[02May2025 19:23:07.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[02May2025 19:24:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Spooky Scary Skeleton]
+[02May2025 19:28:32.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[02May2025 19:34:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gave 1 [Waystone] to Mandester]
