@@ -6392,6 +6392,24 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-05-01 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-05-01 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-01 22:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-05-01 22:30:07 +0000"
@@ -6410,18 +6428,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-05-01 22:16:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-01 22:31:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 22:30:07 +0000"
@@ -6434,33 +6440,9 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
-    "criteria": {
-      "has_soil": "2025-05-01 22:12:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-05-01 22:31:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-05-01 22:45:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-05-01 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-01 22:31:10 +0000"
     },
     "done": true
   },
@@ -6470,15 +6452,81 @@
     },
     "done": true
   },
-  "create:backtank": {
+  "create:recipes/building_blocks/crimson_window": {
     "criteria": {
-      "0": "2025-05-01 22:34:34 +0000"
+      "has_ingredient": "2025-05-01 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 22:31:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2025-05-01 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-01 22:34:02 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-05-01 22:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:45:55 +0000"
     },
     "done": true
   },
@@ -6491,24 +6539,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 22:45:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-01 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-05-01 22:31:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank": {
-    "criteria": {
-      "has_item": "2025-05-01 22:33:00 +0000"
     },
     "done": true
   },
@@ -6530,12 +6560,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-05-01 22:30:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-01 22:45:55 +0000"
@@ -6545,30 +6569,6 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 22:45:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-01 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
-    "criteria": {
-      "has_soil": "2025-05-01 22:12:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-01 22:31:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-05-01 22:34:02 +0000"
     },
     "done": true
   },
