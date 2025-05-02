@@ -977,3 +977,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02May2025 19:24:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Spooky Scary Skeleton]
 [02May2025 19:28:32.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
 [02May2025 19:34:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gave 1 [Waystone] to Mandester]
+[02May2025 20:02:24.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[02May2025 20:02:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
