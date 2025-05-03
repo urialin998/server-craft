@@ -982,3 +982,86 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 03:42:00.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [03May2025 03:42:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> felcidades por tapizar el cielo
 [03May2025 03:46:37.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> me acabo de caer y un correcaminos me silvo
+[03May2025 03:56:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> me regalan un poco de andecita?
+[03May2025 03:56:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> regalar que????
+[03May2025 03:56:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> o es muy escaso?
+[03May2025 03:56:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> si tu no tienes es por que nadie tiene
+[03May2025 03:56:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> si
+[03May2025 03:57:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> a
+[03May2025 04:02:01.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gamerule keepInventory is now set to: false]
+[03May2025 04:02:08.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [We Need to Go Deeper]
+[03May2025 04:02:12.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4621ms or 92 ticks behind
+[03May2025 04:02:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> apenas
+[03May2025 04:02:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> tarde pa
+[03May2025 04:02:36.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -0.6745717403521212,-0.15233518685055003,-10.295998246942872
+[03May2025 04:02:44.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:02:44.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:02:51.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> XD?
+[03May2025 04:03:18.729] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:03:29.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:40269] logged in with entity id 18810 at (-274.51782480153355, 97.0, 248.52743397094366)
+[03May2025 04:03:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:06:06.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Straddle My Ol' Saddle]
+[03May2025 04:06:28.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> no esta el keepinventory
+[03May2025 04:06:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> F
+[03May2025 04:07:02.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> serio
+[03May2025 04:07:07.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> si
+[03May2025 04:07:12.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> justo cuando voy al nether
+[03May2025 04:07:19.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> tejo
+[03May2025 04:07:22.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> sos un....
+[03May2025 04:07:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> quizas un ban te haga reflexionar
+[03May2025 04:07:41.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> javier
+[03May2025 04:07:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> Ulises
+[03May2025 04:07:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> te puedo tepear a mi un momento?
+[03May2025 04:08:00.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> bueno
+[03May2025 04:08:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[03May2025 04:08:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> mira
+[03May2025 04:08:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> esto que es?
+[03May2025 04:08:29.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> 200 bloques de altura
+[03May2025 04:08:31.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> la polla de sauron?
+[03May2025 04:08:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> una torre
+[03May2025 04:08:45.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:08:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:08:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> te gusta?
+[03May2025 04:08:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> te luciste pa
+[03May2025 04:09:10.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> Laura? si me gusta mucho, me encanta
+[03May2025 04:09:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> no era eso
+[03May2025 04:09:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> y porque se fue el otro
+[03May2025 04:09:27.533] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:09:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> aaaa la torre
+[03May2025 04:09:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> esta god
+[03May2025 04:09:34.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:50467] logged in with entity id 22630 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:09:34.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:09:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> que piso quieres
+[03May2025 04:09:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> nesecitaras vidrio amarillo y naranja y asi no?
+[03May2025 04:09:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> cuantos son?
+[03May2025 04:09:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> lo hice al momento
+[03May2025 04:10:04.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:10:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:10:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> en teoria no la hice yo
+[03May2025 04:10:09.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> fue lava y agua
+[03May2025 04:10:17.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gamerule keepInventory is now set to: true]
+[03May2025 04:10:22.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> ya se
+[03May2025 04:10:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> vegetta ya lo hizo
+[03May2025 04:10:30.286] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:10:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> bueno
+[03May2025 04:10:38.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:42615] logged in with entity id 22954 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:10:38.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:10:45.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> piso 4
+[03May2025 04:10:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ya te llevo
+[03May2025 04:10:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> para ponerlas a todas en 4
+[03May2025 04:11:08.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:11:08.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:11:50.014] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@363cddac[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.154.24.208:44203) lost connection: Disconnected
+[03May2025 04:11:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[03May2025 04:11:58.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@602f18c8[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.154.24.208:34883) lost connection: Disconnected
+[03May2025 04:11:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> piso 4
+[03May2025 04:12:12.457] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:12:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> buenas vistas
+[03May2025 04:12:21.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:41305] logged in with entity id 23440 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:12:21.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:12:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> la verdad es que si
+[03May2025 04:12:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> ni muy bajo ni muy alto
+[03May2025 04:12:37.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> termino medio
+[03May2025 04:12:51.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:12:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:12:54.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> bueno no tengo waystone para dejarla y decorar el piso despues
