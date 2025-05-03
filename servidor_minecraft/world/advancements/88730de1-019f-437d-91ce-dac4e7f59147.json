@@ -7822,5 +7822,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-05-03 04:29:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

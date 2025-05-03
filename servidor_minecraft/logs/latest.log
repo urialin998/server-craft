@@ -1065,3 +1065,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:12:51.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
 [03May2025 04:12:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
 [03May2025 04:12:54.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> bueno no tengo waystone para dejarla y decorar el piso despues
+[03May2025 04:13:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> asi que volvere despues
+[03May2025 04:13:38.601] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:13:39.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> y este random por que sale y entra?
+[03May2025 04:13:49.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ni idea
+[03May2025 04:13:52.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:44253] logged in with entity id 24318 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:13:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:13:55.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[03May2025 04:14:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> vamos a discord pues
+[03May2025 04:14:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ya estoy
+[03May2025 04:14:23.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:14:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:17:14.512] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:17:19.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:36183] logged in with entity id 25807 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:17:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:17:49.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[03May2025 04:17:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 04:18:28.060] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[03May2025 04:18:34.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.154.24.208:55407] logged in with entity id 26556 at (-2065.557673128256, 78.5, 1988.8785984238077)
+[03May2025 04:18:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[03May2025 04:25:08.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[03May2025 04:28:04.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[03May2025 04:29:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Fetch Me Their Souls!]
