@@ -1087,3 +1087,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:25:08.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
 [03May2025 04:28:04.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
 [03May2025 04:29:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Fetch Me Their Souls!]
+[03May2025 04:33:57.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[03May2025 04:34:21.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8455ms or 169 ticks behind
+[03May2025 04:34:48.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Nightmare Fuel]
+[03May2025 04:40:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[03May2025 04:43:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[03May2025 04:44:03.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> q asco de bioma
+[03May2025 04:44:29.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> deja
+[03May2025 04:44:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> esta bastion es mia
+[03May2025 04:44:59.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Those Were the Days]
+[03May2025 04:46:31.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [War Pigs]
+[03May2025 04:46:58.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:50:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Piglin Brute
+[03May2025 04:50:38.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4250ms or 85 ticks behind
+[03May2025 04:50:38.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! 1.9746782481461196,0.0,9.850231172208169
+[03May2025 04:50:53.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[03May2025 04:50:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[03May2025 04:51:20.686] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[03May2025 04:51:28.585] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2115df67[id=88730de1-019f-437d-91ce-dac4e7f59147,name=Mandester,properties={textures=[com.mojang.authlib.properties.Property@35489e29]},legacy=false] (/127.59.157.143:40859) lost connection: Disconnected
