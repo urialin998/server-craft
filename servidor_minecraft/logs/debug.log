@@ -7989,3 +7989,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 05:02:17.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> wtf pude dormir sin ustedes??
 [03May2025 05:03:44.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 05:03:44.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:08:44.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:08:44.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:10:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Hunt and Gather]
+[03May2025 05:12:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Piglin Brute
+[03May2025 05:12:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> lo del keep inventory era una bromita
+[03May2025 05:13:03.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> me pege un buen susto
+[03May2025 05:13:32.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[03May2025 05:13:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[03May2025 05:13:44.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:13:44.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:13:53.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[03May2025 05:13:53.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[03May2025 05:13:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 05:13:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 05:13:56.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 05:13:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 05:13:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 05:13:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 05:13:58.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 05:13:58.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:13:58.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:13:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 05:13:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 05:13:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 05:13:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 05:13:58.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[03May2025 05:13:58.733] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[03May2025 05:13:58.765] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[03May2025 05:13:58.765] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[03May2025 05:13:58.766] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[03May2025 05:13:58.766] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[03May2025 05:13:58.906] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03May2025 05:13:58.911] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
