@@ -6722,6 +6722,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 23:35:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-05-04 22:32:37 +0000"
