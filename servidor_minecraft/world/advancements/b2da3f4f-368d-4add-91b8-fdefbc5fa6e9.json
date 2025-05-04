@@ -6622,15 +6622,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-04 22:20:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-04 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-04 22:20:19 +0000"
     },
     "done": true
   },
@@ -6643,12 +6649,6 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 22:20:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-05-04 22:17:50 +0000"
     },
     "done": true
   },
