@@ -965,3 +965,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 19:20:54.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:51975] logged in with entity id 140 at (-1506.3679544277225, 68.8125, 3625.239444495687)
 [04May2025 19:20:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
 [04May2025 19:20:58.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3651ms or 73 ticks behind
+[04May2025 19:21:19.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6163ms or 123 ticks behind
+[04May2025 19:30:12.472] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[04May2025 19:30:28.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:41379] logged in with entity id 1565 at (-1226.5, 132.0, 3178.5)
+[04May2025 19:30:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
