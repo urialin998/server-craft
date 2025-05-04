@@ -2871,6 +2871,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-05-04 21:23:00 +0000",
       "kelp": "2025-04-19 05:34:44 +0000",
       "sugar_cane": "2025-04-28 03:45:45 +0000",
       "potato": "2025-04-18 00:37:46 +0000",
@@ -6612,6 +6613,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_sandstone_slab": "2025-05-04 20:25:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-05-04 21:24:01 +0000"
     },
     "done": true
   },

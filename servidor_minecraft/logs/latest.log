@@ -1029,3 +1029,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 21:24:06.185] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 3883 0 7366 in 2s
 [04May2025 21:24:11.290] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 347 -56 -1786 in 2s
 [04May2025 21:24:24.630] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 3707 2 1202 in 1s
+[04May2025 21:34:49.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[04May2025 21:35:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[04May2025 21:45:47.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has completed the challenge [The New God Of The Sun]
