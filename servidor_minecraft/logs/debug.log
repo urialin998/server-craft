@@ -6682,3 +6682,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 19:47:47.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 19:47:47.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 19:50:13.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9814, l='ServerLevel[world]', x=-2076.70, y=59.53, z=1939.70] died, message: 'Librarian drowned'
+[04May2025 19:52:45.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> tienen netherrack?
+[04May2025 19:52:49.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:52:49.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 19:52:50.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04May2025 19:53:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> no
+[04May2025 19:53:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> no
+[04May2025 19:53:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> hola Allan
+[04May2025 19:53:20.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[04May2025 19:53:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> engo netherock
+[04May2025 19:53:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> chao
+[04May2025 19:53:37.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> 0 y van 2
+[04May2025 19:54:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> hey por que mierdas no hay un portal que lleve al bioma normal del nether?
+[04May2025 19:54:24.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> estoy harto del basalto
+[04May2025 19:55:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> y tus aldeanos?
+[04May2025 19:55:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> si
+[04May2025 19:57:51.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 19:57:51.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:02:51.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:02:51.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
