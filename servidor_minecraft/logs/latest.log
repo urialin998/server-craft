@@ -973,3 +973,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 19:36:43.819] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
 [04May2025 19:36:48.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.69.151.243:40607] logged in with entity id 3989 at (-1729.2161521105413, 72.875, 2091.4949078755344)
 [04May2025 19:36:48.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[04May2025 19:42:13.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[04May2025 19:50:13.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9814, l='ServerLevel[world]', x=-2076.70, y=59.53, z=1939.70] died, message: 'Librarian drowned'
