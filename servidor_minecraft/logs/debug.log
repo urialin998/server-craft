@@ -6701,3 +6701,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 19:57:51.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 20:02:51.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 20:02:51.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:07:51.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:07:52.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 20:09:10.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> 2048 1997
+[04May2025 20:09:28.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> el cadaver de quien tienes ahi?
+[04May2025 20:09:43.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> tuyo si investigas
+[04May2025 20:12:51.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 20:12:51.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
