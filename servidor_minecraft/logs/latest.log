@@ -988,3 +988,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 23:31:15.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [04May2025 23:31:20.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
 [04May2025 23:33:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[04May2025 23:37:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has reached the goal [Swimming with the Striders]
+[04May2025 23:40:04.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
+[04May2025 23:40:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made JARAX23 a server operator]
+[04May2025 23:41:03.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made JARAX23 no longer a server operator]
+[04May2025 23:41:16.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[04May2025 23:45:44.648] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[04May2025 23:45:50.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:56303] logged in with entity id 27615 at (-183.04950553780566, 55.0, 540.3707294787195)
+[04May2025 23:45:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game

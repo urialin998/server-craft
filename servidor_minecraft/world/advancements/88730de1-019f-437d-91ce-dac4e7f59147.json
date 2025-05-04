@@ -7846,5 +7846,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_hoglin": {
+    "criteria": {
+      "has_raw_stuffed_hoglin": "2025-05-04 23:44:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

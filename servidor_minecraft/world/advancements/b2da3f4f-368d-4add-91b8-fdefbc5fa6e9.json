@@ -6662,6 +6662,12 @@
     },
     "done": true
   },
+  "create:diving_suit": {
+    "criteria": {
+      "0": "2025-05-04 23:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-04 22:55:46 +0000"
@@ -6713,6 +6719,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "create:diving_suit_lava": {
+    "criteria": {
+      "0": "2025-05-04 23:37:29 +0000"
     },
     "done": true
   },
