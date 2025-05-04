@@ -245,6 +245,7 @@
     "criteria": {
       "minecraft:blaze": "2025-04-30 23:11:19 +0000",
       "minecraft:skeleton": "2025-04-22 03:35:51 +0000",
+      "minecraft:magma_cube": "2025-05-04 21:52:43 +0000",
       "minecraft:spider": "2025-04-22 02:23:22 +0000",
       "minecraft:creeper": "2025-04-27 20:08:51 +0000",
       "minecraft:phantom": "2025-04-28 03:02:24 +0000",
@@ -5555,6 +5556,12 @@
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2025-05-04 21:10:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_new_god_of_the_sun": {
+    "criteria": {
+      "the_new_god_of_the_sun_0": "2025-05-04 21:45:47 +0000"
     },
     "done": true
   },
