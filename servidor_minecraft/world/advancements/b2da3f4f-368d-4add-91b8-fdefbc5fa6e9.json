@@ -2871,7 +2871,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-05-04 22:34:06 +0000",
+      "onion": "2025-05-04 22:34:18 +0000",
       "sweet_berries": "2025-05-04 21:23:00 +0000",
+      "tomato": "2025-05-04 22:40:03 +0000",
       "kelp": "2025-04-19 05:34:44 +0000",
       "sugar_cane": "2025-04-28 03:45:45 +0000",
       "potato": "2025-04-18 00:37:46 +0000",
@@ -6649,6 +6652,24 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-05-04 22:20:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-04 22:32:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-04 22:32:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-04 22:32:37 +0000"
     },
     "done": true
   },
