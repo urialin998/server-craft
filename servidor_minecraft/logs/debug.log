@@ -6909,3 +6909,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04May2025 21:14:39.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:33265] logged in with entity id 51438 at (-1210.8317357083347, 80.0, 3351.502627249225)
 [04May2025 21:14:39.104] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1a77121e into net.minecraft.network.Connection@11b8fa38
 [04May2025 21:14:39.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[04May2025 21:17:59.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 21:17:59.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 21:22:59.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 21:22:59.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 21:24:01.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [The Journey Begins]
+[04May2025 21:24:06.185] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 3883 0 7366 in 2s
+[04May2025 21:24:11.290] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 347 -56 -1786 in 2s
+[04May2025 21:24:24.630] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 3707 2 1202 in 1s
