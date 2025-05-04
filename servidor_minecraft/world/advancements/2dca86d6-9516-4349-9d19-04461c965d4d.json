@@ -5510,6 +5510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 21:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-05-04 19:42:07 +0000"
@@ -5522,6 +5528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-04 21:03:01 +0000"
+    },
+    "done": true
+  },
   "create:saw_processing": {
     "criteria": {
       "0": "2025-05-04 19:49:47 +0000"
@@ -5531,6 +5543,18 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-04 19:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-04 21:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-05-04 21:10:24 +0000"
     },
     "done": true
   },
