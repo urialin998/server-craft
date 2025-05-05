@@ -256,6 +256,7 @@
       "minecraft:enderman": "2025-05-05 00:05:36 +0000",
       "minecraft:silverfish": "2025-05-05 00:08:59 +0000",
       "minecraft:zombie": "2025-04-22 03:22:26 +0000",
+      "minecraft:drowned": "2025-05-05 02:35:35 +0000",
       "minecraft:zombie_villager": "2025-05-05 02:03:56 +0000"
     },
     "done": false
@@ -5788,6 +5789,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-05-05 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-05-05 03:00:58 +0000"
     },
     "done": true
   },
