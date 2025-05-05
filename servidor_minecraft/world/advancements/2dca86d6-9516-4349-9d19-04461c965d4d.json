@@ -5567,7 +5567,25 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-04 23:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-04 23:50:06 +0000"
     },
@@ -5579,9 +5597,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+      "has_ender_eye": "2025-05-04 23:50:13 +0000"
     },
     "done": true
   },
@@ -5591,15 +5609,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "killed_by": "2025-05-04 23:48:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+      "has_log": "2025-05-05 00:04:13 +0000"
     },
     "done": true
   },
@@ -5612,18 +5624,6 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-05-05 00:10:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-05 00:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-04 23:50:13 +0000"
     },
     "done": true
   },

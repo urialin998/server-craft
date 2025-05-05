@@ -7846,6 +7846,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_hoglin": {
+    "criteria": {
+      "has_raw_stuffed_hoglin": "2025-05-04 23:44:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-05-04 23:55:17 +0000"
@@ -7870,12 +7876,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-05-05 00:09:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-05 00:08:38 +0000"
@@ -7891,12 +7891,6 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-05 00:08:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_hoglin": {
-    "criteria": {
-      "has_raw_stuffed_hoglin": "2025-05-04 23:44:31 +0000"
     },
     "done": true
   },
@@ -7924,15 +7918,21 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "entered_end": "2025-05-05 00:10:36 +0000"
+      "has_ender_eye": "2025-05-05 00:09:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-05-05 00:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-05 00:10:36 +0000"
     },
     "done": true
   },
