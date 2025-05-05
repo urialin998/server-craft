@@ -252,6 +252,8 @@
       "minecraft:wither_skeleton": "2025-05-01 03:23:40 +0000",
       "minecraft:cave_spider": "2025-04-22 03:29:22 +0000",
       "minecraft:piglin": "2025-04-22 03:07:38 +0000",
+      "minecraft:enderman": "2025-05-05 00:05:36 +0000",
+      "minecraft:silverfish": "2025-05-05 00:08:59 +0000",
       "minecraft:zombie": "2025-04-22 03:22:26 +0000"
     },
     "done": false
@@ -5511,12 +5513,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-05-04 21:03:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-05-04 19:42:07 +0000"
@@ -5529,9 +5525,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_oxeye_daisy": "2025-05-04 21:03:01 +0000"
+      "has_stone_slab": "2025-05-04 19:49:37 +0000"
     },
     "done": true
   },
@@ -5541,15 +5537,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_stone_slab": "2025-05-04 19:49:37 +0000"
+      "has_oxeye_daisy": "2025-05-04 21:03:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-04 21:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 21:03:46 +0000"
     },
     "done": true
   },
@@ -5562,6 +5564,72 @@
   "dungeons_and_combat:the_new_god_of_the_sun": {
     "criteria": {
       "the_new_god_of_the_sun_0": "2025-05-04 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-04 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-05 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-04 23:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-04 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-05 00:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-05 00:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-04 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-05 00:10:31 +0000"
     },
     "done": true
   },
