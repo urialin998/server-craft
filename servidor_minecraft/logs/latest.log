@@ -982,3 +982,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06May2025 23:41:25.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:49985] logged in with entity id 141 at (-1484.8888256782157, 73.90625, 3657.559758217154)
 [06May2025 23:41:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [06May2025 23:41:29.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[06May2025 23:48:52.276] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[06May2025 23:48:58.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:51715] logged in with entity id 1755 at (-1227.8313451532915, 127.0, 3171.300000011921)
+[06May2025 23:48:58.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[06May2025 23:49:41.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> q
+[06May2025 23:49:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> where is de aldeano
+[06May2025 23:50:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> cual?
+[06May2025 23:50:12.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> todos estan donde angel
+[06May2025 23:50:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> aun no los traigo
+[06May2025 23:50:20.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> el de reparacion
+[06May2025 23:50:24.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> alla
+[06May2025 23:51:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> aqui
+[06May2025 23:51:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> este es mio
+[06May2025 23:51:41.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
