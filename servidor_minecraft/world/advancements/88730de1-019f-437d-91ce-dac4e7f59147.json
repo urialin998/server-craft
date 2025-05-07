@@ -8088,15 +8088,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+  "create:recipes/misc/crafting/appliances/filter_clear": {
     "criteria": {
-      "has_item": "2025-05-07 00:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-05-07 00:26:47 +0000"
+      "has_item": "2025-05-07 00:24:41 +0000"
     },
     "done": true
   },
@@ -8106,33 +8100,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
-    "criteria": {
-      "has_item": "2025-05-07 00:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/palettes/copycat_fence": {
     "criteria": {
       "has_item": "2025-05-07 00:25:21 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-07 00:42:34 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
-    "criteria": {
-      "has_item": "2025-05-07 00:43:41 +0000"
     },
     "done": true
   },
@@ -8142,21 +8112,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/palettes/copycat_block": {
     "criteria": {
       "has_item": "2025-05-07 00:25:21 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/brake": {
-    "criteria": {
-      "has_item": "2025-05-07 00:37:33 +0000"
     },
     "done": true
   },
@@ -8172,27 +8130,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/crank_wheel": {
-    "criteria": {
-      "has_item": "2025-05-07 00:40:34 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/palettes/copycat_beam": {
     "criteria": {
       "has_item": "2025-05-07 00:25:21 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/gearshift_from_conversion": {
-    "criteria": {
-      "has_item": "2025-05-07 00:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
     },
     "done": true
   },
@@ -8202,15 +8142,75 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
-    "criteria": {
-      "has_item": "2025-05-07 00:24:41 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/palettes/copycat_fence_gate": {
     "criteria": {
       "has_item": "2025-05-07 00:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-05-07 00:26:47 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-05-07 00:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-07 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-05-07 00:40:34 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-05-07 00:40:34 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-07 00:42:34 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-05-07 00:43:41 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-07 00:45:57 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-07 00:46:00 +0000"
     },
     "done": true
   },
