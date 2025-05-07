@@ -997,3 +997,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07May2025 03:26:36.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=14, z=31} BlockPos{x=125, y=16, z=31}
 [07May2025 03:26:36.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=14, z=31} BlockPos{x=125, y=16, z=31}
 [07May2025 03:26:36.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=14, z=31} BlockPos{x=125, y=16, z=31}
+[07May2025 03:27:27.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[07May2025 03:27:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[07May2025 03:33:51.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bed35d[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:55515) lost connection: Disconnected
+[07May2025 03:33:57.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a6c1a0c[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:48585) lost connection: Disconnected
+[07May2025 03:34:05.475] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27ca3ed6[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:42341) lost connection: Disconnected
