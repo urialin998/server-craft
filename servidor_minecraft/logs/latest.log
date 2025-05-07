@@ -1006,3 +1006,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07May2025 03:41:08.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:34981] logged in with entity id 8117 at (-1258.300000011921, -48.0, 2110.9064140209716)
 [07May2025 03:41:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [07May2025 03:53:35.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Flexible Schedule]
+[07May2025 04:14:24.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[07May2025 04:14:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
