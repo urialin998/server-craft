@@ -6971,3 +6971,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06May2025 23:52:07.748] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$53ca009bcfbd43df88f9b2e18cd8b1af (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
 [06May2025 23:54:55.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06May2025 23:54:55.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 23:59:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> hey discord
+[06May2025 23:59:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> acá esta tu amiga jodiendo ayuda
+[06May2025 23:59:55.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 23:59:55.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 00:00:29.496] [Server thread/DEBUG] [mixin/]: Mixing copycat.stairs.StructureTransformMixin from create_connected.mixins.json into com.simibubi.create.content.contraptions.StructureTransform
+[07May2025 00:00:29.497] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:copycat.stairs.StructureTransformMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[07May2025 00:04:01.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[07May2025 00:04:55.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 00:04:55.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 00:08:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has completed the challenge [Hot Tourist Destinations]
+[07May2025 00:08:27.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[07May2025 00:09:02.385] [Worker-Main-44/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
