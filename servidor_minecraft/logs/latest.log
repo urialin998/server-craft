@@ -1,3 +1,30 @@
 [07May2025 00:04:01.708] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
 [07May2025 00:08:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has completed the challenge [Hot Tourist Destinations]
 [07May2025 00:08:27.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[07May2025 00:09:32.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[07May2025 00:09:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[07May2025 00:10:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Those Were the Days]
+[07May2025 00:10:39.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:39.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:39.496] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:39.595] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:39.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:39.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:42.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:42.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:42.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:42.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:42.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:43.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:43.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:10:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Oh Shiny]
+[07May2025 00:11:17.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [War Pigs]
+[07May2025 00:11:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Hidden in the Depths]
+[07May2025 00:11:58.709] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[07May2025 00:12:05.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:33765] logged in with entity id 16904 at (-5085.699999988079, -27.0, 3668.8803509802597)
+[07May2025 00:12:05.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[07May2025 00:12:07.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[07May2025 00:14:00.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
+[07May2025 00:17:04.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[07May2025 00:17:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 tried to swim in lava to escape Hoglin
+[07May2025 00:20:11.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind

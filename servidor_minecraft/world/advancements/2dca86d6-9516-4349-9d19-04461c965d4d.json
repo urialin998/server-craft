@@ -66,6 +66,7 @@
       "minecraft:snowy_beach": "2025-04-22 04:03:30 +0000",
       "minecraft:windswept_savanna": "2025-04-28 01:44:23 +0000",
       "minecraft:warm_ocean": "2025-04-27 21:59:27 +0000",
+      "minecraft:flower_forest": "2025-05-07 00:19:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 22:34:52 +0000",
       "minecraft:meadow": "2025-04-23 23:20:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-22 02:49:01 +0000",
@@ -245,8 +246,10 @@
     "criteria": {
       "minecraft:blaze": "2025-04-30 23:11:19 +0000",
       "minecraft:skeleton": "2025-04-22 03:35:51 +0000",
+      "minecraft:hoglin": "2025-05-07 00:10:30 +0000",
       "minecraft:magma_cube": "2025-05-04 21:52:43 +0000",
       "minecraft:spider": "2025-04-22 02:23:22 +0000",
+      "minecraft:piglin_brute": "2025-05-07 00:14:42 +0000",
       "minecraft:creeper": "2025-04-27 20:08:51 +0000",
       "minecraft:phantom": "2025-04-28 03:02:24 +0000",
       "minecraft:wither_skeleton": "2025-05-01 03:23:40 +0000",
@@ -1731,10 +1734,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-01 22:37:41 +0000",
       "minecraft:nether_wastes": "2025-04-22 03:05:11 +0000",
+      "minecraft:soul_sand_valley": "2025-05-07 00:08:22 +0000",
       "minecraft:basalt_deltas": "2025-04-22 03:06:52 +0000",
       "minecraft:warped_forest": "2025-04-22 03:08:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -5798,9 +5802,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2025-05-07 00:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-07 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-07 00:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-07 00:11:23 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-05-06 23:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-07 00:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-07 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-07 00:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
     },
     "done": true
   },
@@ -5810,9 +5880,93 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-05-07 00:10:58 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2025-05-07 00:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-07 00:11:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2025-05-07 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-07 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-07 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-05-07 00:11:32 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2025-05-07 00:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-07 00:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-05-06 23:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-07 00:10:23 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2025-05-07 00:12:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-05-07 00:11:19 +0000"
     },
     "done": true
   },
