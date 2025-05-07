@@ -5808,6 +5808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-07 00:40:44 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/food/warped_moldy_meat": {
     "criteria": {
       "has_sirloin": "2025-05-07 00:10:31 +0000"
@@ -5841,6 +5847,12 @@
   "create_connected:root": {
     "criteria": {
       "0": "2025-05-06 23:48:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-05-07 00:44:50 +0000"
     },
     "done": true
   },

@@ -28,3 +28,18 @@
 [07May2025 00:17:04.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
 [07May2025 00:17:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 tried to swim in lava to escape Hoglin
 [07May2025 00:20:11.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[07May2025 00:20:30.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
+[07May2025 00:21:55.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4743ms or 94 ticks behind
+[07May2025 00:26:29.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[07May2025 00:27:34.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
+[07May2025 00:27:34.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 moved too quickly! -10.049373773337507,1.0,1.0241967177989864
+[07May2025 00:28:29.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
+[07May2025 00:32:18.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Piglin Brute
+[07May2025 00:38:51.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 moved too quickly! -2.8317961052951404,-0.05487341019391323,-17.789933902491498
+[07May2025 00:39:00.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
+[07May2025 00:39:00.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 moved too quickly! -1.0791745640796364,12.001539710052995,-13.033073814533964
+[07May2025 00:39:17.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Piglin Brute
+[07May2025 00:39:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made All_D08 a server operator]
+[07May2025 00:44:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Fetch Me Their Souls!]
+[07May2025 00:50:02.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07May2025 00:50:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Piglin Brute

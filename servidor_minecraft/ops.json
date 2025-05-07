@@ -4,5 +4,11 @@
     "name": "Mandester",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2dca86d6-9516-4349-9d19-04461c965d4d",
+    "name": "All_D08",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
