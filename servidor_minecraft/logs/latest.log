@@ -1336,3 +1336,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 21:11:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Mass Transit]
 [08May2025 21:17:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 tried to swim in lava
 [08May2025 21:18:30.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08May2025 21:24:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 burned to death
+[08May2025 21:25:00.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[08May2025 21:28:17.831] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[08May2025 21:28:21.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.69.151.243:59803] logged in with entity id 106077 at (-1801.562928664, 75.15440003037465, 2077.5282339514283)
+[08May2025 21:28:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[08May2025 21:28:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> ostia
+[08May2025 21:28:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> ostiaa
