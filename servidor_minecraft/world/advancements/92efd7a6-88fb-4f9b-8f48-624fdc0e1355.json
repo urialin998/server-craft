@@ -5240,27 +5240,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-08 05:22:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-05-08 05:22:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
-      "has_golden_sword": "2025-05-08 05:33:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-05-08 05:33:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-05-08 05:26:34 +0000"
+      "has_item": "2025-05-08 05:23:34 +0000"
     },
     "done": true
   },
@@ -5276,9 +5270,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/brake": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_item": "2025-05-08 05:23:34 +0000"
+      "blaze_rod": "2025-05-08 05:26:34 +0000"
     },
     "done": true
   },
@@ -5288,15 +5282,39 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-05-08 05:22:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-08 05:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-08 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-08 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-08 06:10:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-05-08 06:31:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-08 06:55:05 +0000"
     },
     "done": true
   },
