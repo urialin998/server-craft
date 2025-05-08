@@ -1073,3 +1073,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 23:26:29.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
 [08May2025 23:28:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 burned to death
 [08May2025 23:28:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> creo que se pueden domesticar gorilas
+[08May2025 23:29:08.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08May2025 23:29:11.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08May2025 23:29:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08May2025 23:29:11.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Server closed
+[08May2025 23:29:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[08May2025 23:29:11.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08May2025 23:29:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08May2025 23:29:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08May2025 23:29:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08May2025 23:29:24.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08May2025 23:29:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08May2025 23:29:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08May2025 23:29:24.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08May2025 23:29:24.919] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
