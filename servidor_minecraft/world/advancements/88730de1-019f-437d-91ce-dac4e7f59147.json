@@ -8364,12 +8364,6 @@
     },
     "done": true
   },
-  "create_connected:brass_gearbox": {
-    "criteria": {
-      "0": "2025-05-08 04:38:23 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
     "criteria": {
       "has_item": "2025-05-08 03:56:54 +0000"
@@ -8379,6 +8373,12 @@
   "create:steam_engine": {
     "criteria": {
       "0": "2025-05-08 04:35:14 +0000"
+    },
+    "done": true
+  },
+  "create_connected:brass_gearbox": {
+    "criteria": {
+      "0": "2025-05-08 04:38:23 +0000"
     },
     "done": true
   },
