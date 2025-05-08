@@ -8256,33 +8256,33 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_freezing": {
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
     "criteria": {
-      "has_item": "2025-05-08 02:40:11 +0000"
+      "has_item": "2025-05-08 01:51:19 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_seething": {
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
-      "has_item": "2025-05-08 02:40:11 +0000"
+      "has_item": "2025-05-08 01:51:19 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
     "criteria": {
-      "has_item": "2025-05-08 03:02:23 +0000"
+      "has_item": "2025-05-08 01:51:19 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_splashing": {
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
     "criteria": {
-      "has_item": "2025-05-08 02:40:11 +0000"
+      "has_item": "2025-05-08 02:16:39 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_smoking": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_item": "2025-05-08 02:40:11 +0000"
+      "has_stone_slab": "2025-05-08 02:30:59 +0000"
     },
     "done": true
   },
@@ -8298,27 +8298,33 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_sanding": {
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_freezing": {
     "criteria": {
       "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_seething": {
     "criteria": {
-      "has_item": "2025-05-08 01:51:19 +0000"
+      "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_splashing": {
     "criteria": {
-      "has_item": "2025-05-08 02:16:39 +0000"
+      "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_smoking": {
     "criteria": {
-      "has_item": "2025-05-08 01:51:19 +0000"
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_sanding": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
@@ -8334,21 +8340,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-05-08 02:59:50 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/fluid_vessel": {
     "criteria": {
       "has_item": "2025-05-08 02:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-08 02:30:59 +0000"
     },
     "done": true
   },
@@ -8358,9 +8352,15 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
     "criteria": {
-      "has_item": "2025-05-08 01:51:19 +0000"
+      "has_item": "2025-05-08 02:59:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-05-08 03:02:23 +0000"
     },
     "done": true
   },
