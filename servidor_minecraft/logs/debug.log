@@ -7168,3 +7168,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 22:31:13.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 22:31:13.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08May2025 22:32:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> lo dices como si no hubiera desierto
+[08May2025 22:35:00.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[08May2025 22:35:21.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6063ms or 121 ticks behind
+[08May2025 22:36:20.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 22:36:20.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 22:37:55.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2591, y=64, z=-74} BlockPos{x=-2590, y=62, z=-75}
+[08May2025 22:38:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Rigged from the Start]
+[08May2025 22:41:21.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 22:41:21.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
