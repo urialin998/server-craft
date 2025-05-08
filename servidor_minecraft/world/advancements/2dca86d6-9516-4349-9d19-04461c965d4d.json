@@ -6454,6 +6454,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/laviathan_four_passengers": {
+    "criteria": {
+      "ex": "2025-05-08 21:11:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 20:57:01 +0000"

@@ -1326,3 +1326,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 21:02:37.867] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [08May2025 21:03:11.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> ya pude controlarla
 [08May2025 21:04:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> ta seria, se mueve bastante rapido
+[08May2025 21:09:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> tengo dos striders
+[08May2025 21:09:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> quieres que vaya o q
+[08May2025 21:09:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> si quieres
+[08May2025 21:10:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> voy a comer vengo mas tarde
+[08May2025 21:10:49.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[08May2025 21:10:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[08May2025 21:11:10.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laviathan (vehicle of All_D08) moved too quickly! -9.977325739959838,0.01851822626073485,-1.3027485293097811
+[08May2025 21:11:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Mass Transit]
+[08May2025 21:17:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 tried to swim in lava
+[08May2025 21:18:30.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
