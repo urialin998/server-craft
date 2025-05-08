@@ -8256,9 +8256,45 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_freezing": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_seething": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_splashing": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/vertical_brass_gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-05-08 02:34:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+    "criteria": {
+      "has_the_recipe": "2025-05-08 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_sanding": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
@@ -8277,6 +8313,18 @@
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2025-05-08 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_blasting": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_haunting": {
+    "criteria": {
+      "has_item": "2025-05-08 02:40:11 +0000"
     },
     "done": true
   },
