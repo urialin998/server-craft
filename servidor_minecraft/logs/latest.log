@@ -1006,3 +1006,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 01:53:45.007] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
 [08May2025 01:53:52.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.218.143.218:55237] logged in with entity id 19357 at (-1422.699999988079, 81.0, 1770.2576134462327)
 [08May2025 01:53:52.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[08May2025 01:55:03.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[08May2025 01:55:25.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6760ms or 135 ticks behind
+[08May2025 02:01:22.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Begun, The Emu War Has]
+[08May2025 02:02:14.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/27165, l='ServerLevel[world]', x=-2055.02, y=63.00, z=1957.50] died, message: 'Farmer hit the ground too hard whilst trying to escape Guster'
+[08May2025 02:04:30.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/27164, l='ServerLevel[world]', x=-2055.50, y=67.50, z=1960.70] died, message: 'Farmer was slain by Guster'
