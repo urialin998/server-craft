@@ -1001,3 +1001,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 04:08:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
 [08May2025 04:08:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made YamadaH2O a server operator]
 [08May2025 04:18:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Pest Control]
+[08May2025 04:51:18.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[08May2025 04:51:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
