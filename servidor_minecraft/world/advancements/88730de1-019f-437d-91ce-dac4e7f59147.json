@@ -8262,6 +8262,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-08 02:16:39 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2025-05-08 01:51:19 +0000"

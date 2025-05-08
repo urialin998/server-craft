@@ -7137,6 +7137,18 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-05-08 02:20:00 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-08 02:17:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
     "criteria": {
       "has_item": "2025-05-08 02:13:35 +0000"
