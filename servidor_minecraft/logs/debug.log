@@ -7194,3 +7194,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 23:04:51.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
 [08May2025 23:06:40.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 23:06:40.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:07:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> vamos a la cueva primordial?
+[08May2025 23:08:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> iba a ponerme a explorar el nether
+[08May2025 23:09:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> a buscar materiales para hacer la armadura ignea
+[08May2025 23:11:40.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 23:11:40.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:11:46.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[08May2025 23:12:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Nightmare Fuel]
+[08May2025 23:13:38.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08May2025 23:14:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ya viste donde conseguir los huesos?
+[08May2025 23:14:10.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> now
+[08May2025 23:15:24.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4043, y=52, z=97} BlockPos{x=-4045, y=52, z=97}
+[08May2025 23:15:24.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4043, y=52, z=97} BlockPos{x=-4045, y=52, z=97}
+[08May2025 23:15:49.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4043, y=49, z=96} BlockPos{x=-4044, y=49, z=98}
+[08May2025 23:16:42.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 23:16:42.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:17:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 experienced kinetic energy
+[08May2025 23:17:39.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4472ms or 89 ticks behind
+[08May2025 23:20:08.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 experienced kinetic energy
+[08May2025 23:21:46.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 23:21:46.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:22:44.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08May2025 23:23:00.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Piglin Brute
+[08May2025 23:23:15.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[08May2025 23:23:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ni en xvideos habia visto una culeada tan grande como la que te estan dando
+[08May2025 23:24:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Gone Bananas!]
+[08May2025 23:25:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> no quiero saberqu
+[08May2025 23:25:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> que vas a hacer con esa banana
+[08May2025 23:25:53.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> quien crees que soy
+[08May2025 23:26:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Piglin Brute
+[08May2025 23:26:29.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
+[08May2025 23:26:53.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 23:26:53.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:28:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 burned to death
+[08May2025 23:28:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> creo que se pueden domesticar gorilas
