@@ -332,6 +332,7 @@
       "glow_berries": "2025-04-22 03:12:52 +0000",
       "melon_slice": "2025-04-27 23:37:55 +0000",
       "golden_carrot": "2025-04-27 23:40:58 +0000",
+      "enchanted_golden_apple": "2025-05-08 03:01:17 +0000",
       "carrot": "2025-04-27 21:18:43 +0000"
     },
     "done": false
@@ -6207,6 +6208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-08 03:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 01:17:43 +0000"
@@ -6255,6 +6262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-08 03:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-08 01:52:09 +0000"
@@ -6264,6 +6277,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-08 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-05-08 02:58:09 +0000"
     },
     "done": true
   },

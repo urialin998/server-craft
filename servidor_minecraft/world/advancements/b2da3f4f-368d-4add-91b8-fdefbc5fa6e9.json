@@ -7131,6 +7131,24 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/palettes/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-05-08 02:07:40 +0000"
@@ -7143,15 +7161,51 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2025-05-08 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_block": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/brass_gearbox": {
     "criteria": {
       "has_item": "2025-05-08 02:17:50 +0000"
     },
     "done": true
   },
+  "create_connected:recipes/crafting/palettes/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2025-05-08 03:01:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
     "criteria": {
       "has_item": "2025-05-08 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
     },
     "done": true
   },
@@ -7164,6 +7218,24 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-08 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_board": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2025-05-08 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:55 +0000"
     },
     "done": true
   },

@@ -8268,6 +8268,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-05-08 03:02:23 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_splashing": {
     "criteria": {
       "has_item": "2025-05-08 02:40:11 +0000"
@@ -8328,9 +8334,27 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-08 02:59:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-08 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-05-08 02:58:41 +0000"
     },
     "done": true
   },
