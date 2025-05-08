@@ -6958,3 +6958,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 01:13:01.124] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1aef7029 into net.minecraft.network.Connection@723e5522
 [08May2025 01:13:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
 [08May2025 01:13:01.221] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to All_D08
+[08May2025 01:14:55.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 01:14:55.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 01:19:55.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 01:19:55.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
