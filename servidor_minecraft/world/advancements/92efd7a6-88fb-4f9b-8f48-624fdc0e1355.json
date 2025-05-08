@@ -5093,5 +5093,11 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-05-08 02:31:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

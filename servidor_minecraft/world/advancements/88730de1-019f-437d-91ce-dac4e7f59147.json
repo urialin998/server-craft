@@ -8256,6 +8256,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/vertical_brass_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-08 02:34:11 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/overstress_clutch": {
     "criteria": {
       "has_item": "2025-05-08 01:51:19 +0000"
@@ -8271,6 +8277,12 @@
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2025-05-08 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-08 02:30:59 +0000"
     },
     "done": true
   },
