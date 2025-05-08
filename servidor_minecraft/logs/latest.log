@@ -1006,3 +1006,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08May2025 05:33:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Zombified Piglin
 [08May2025 05:34:10.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
 [08May2025 05:34:10.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! 6.338038739847889,-0.08609407931551516,7.977941087327963
+[08May2025 05:43:55.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[08May2025 05:43:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[08May2025 05:43:56.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[08May2025 05:43:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[08May2025 05:44:06.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08May2025 05:44:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08May2025 05:44:06.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08May2025 05:44:06.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08May2025 05:44:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08May2025 05:44:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08May2025 05:44:07.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08May2025 05:44:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08May2025 05:44:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08May2025 05:44:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08May2025 05:44:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08May2025 05:44:07.744] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
