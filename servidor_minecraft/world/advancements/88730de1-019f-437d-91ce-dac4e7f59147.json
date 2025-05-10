@@ -8626,5 +8626,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-05-10 19:12:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-05-10 19:12:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
