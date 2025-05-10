@@ -7421,3 +7421,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10May2025 01:16:06.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 19.19999998807907,0.09999999999999432,-64.19999998807907
 [10May2025 01:18:31.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10May2025 01:18:31.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 01:19:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Whatever Floats Your Goat!]
+[10May2025 01:19:37.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5412ms or 108 ticks behind
+[10May2025 01:19:54.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[10May2025 01:20:05.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2025 01:20:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2025 01:20:06.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Server closed
+[10May2025 01:20:06.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[10May2025 01:20:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2025 01:20:09.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2025 01:20:20.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2025 01:20:20.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2025 01:20:20.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 01:20:20.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 01:20:20.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 01:20:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 01:20:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 01:20:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10May2025 01:20:20.364] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[10May2025 01:20:20.365] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[10May2025 01:20:20.741] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[10May2025 01:20:20.741] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[10May2025 01:20:20.742] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[10May2025 01:20:20.742] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[10May2025 01:20:20.757] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10May2025 01:20:20.762] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

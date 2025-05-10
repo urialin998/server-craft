@@ -8402,5 +8402,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-05-10 01:19:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
