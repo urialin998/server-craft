@@ -1060,3 +1060,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [10May2025 04:57:23.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7975ms or 159 ticks behind
 [10May2025 04:57:45.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7558ms or 151 ticks behind
 [10May2025 04:58:13.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12745ms or 254 ticks behind
+[10May2025 05:21:19.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Peaceful]
+[10May2025 05:21:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Normal]
+[10May2025 05:28:07.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[10May2025 05:28:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
