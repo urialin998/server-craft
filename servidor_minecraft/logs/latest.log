@@ -1064,3 +1064,17 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [10May2025 05:21:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Normal]
 [10May2025 05:28:07.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
 [10May2025 05:28:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[10May2025 05:39:19.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[10May2025 05:39:19.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[10May2025 05:39:37.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10May2025 05:39:37.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2025 05:39:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2025 05:39:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2025 05:39:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2025 05:39:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2025 05:39:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2025 05:39:37.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 05:39:37.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 05:39:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 05:39:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10May2025 05:39:37.845] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
