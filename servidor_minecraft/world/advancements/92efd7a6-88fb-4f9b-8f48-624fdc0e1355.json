@@ -5319,6 +5319,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-10 19:57:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2025-05-10 19:38:30 +0000"
@@ -5340,6 +5346,18 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-05-10 19:37:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-10 19:55:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-10 19:57:36 +0000"
     },
     "done": true
   },
