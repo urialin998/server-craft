@@ -8408,81 +8408,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
-    "criteria": {
-      "fiddlehead": "2025-05-10 02:04:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2025-05-10 01:48:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-05-10 02:17:39 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_subterranodon": {
-    "criteria": {
-      "killed": "2025-05-10 02:49:08 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-05-10 02:23:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-05-10 02:13:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-05-10 01:56:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-10 01:46:01 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-05-10 01:52:45 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/ominous_catalyst": {
-    "criteria": {
-      "nuclear_bomb": "2025-05-10 02:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-10 02:13:23 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-05-10 01:37:28 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-05-10 01:58:02 +0000"
     },
     "done": true
   },
@@ -8492,9 +8420,57 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_tremorsaurus": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "killed": "2025-05-10 02:45:23 +0000"
+      "enchanted_item": "2025-05-10 01:46:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-10 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-05-10 01:52:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-05-10 01:56:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-05-10 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-05-10 01:58:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-05-10 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-05-10 02:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-10 02:13:03 +0000"
     },
     "done": true
   },
@@ -8504,15 +8480,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-10 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-05-10 02:17:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-05-10 02:23:32 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-05-10 02:28:50 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "alexscaves:alexscaves/tame_tremorsaurus": {
     "criteria": {
-      "killed_grottoceratops": "2025-05-10 01:58:00 +0000"
+      "killed": "2025-05-10 02:45:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-05-10 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/breed_grottoceratops": {
+    "criteria": {
+      "breed": "2025-05-10 03:16:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2025-05-10 03:53:50 +0000",
+      "helmet": "2025-05-10 03:52:03 +0000",
+      "tunic": "2025-05-10 03:52:07 +0000"
     },
     "done": true
   },
