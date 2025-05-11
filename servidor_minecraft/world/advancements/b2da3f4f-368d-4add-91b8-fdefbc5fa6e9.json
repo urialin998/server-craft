@@ -40,6 +40,7 @@
       "minecraft:snowy_slopes": "2025-04-18 04:13:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-10 04:05:41 +0000",
       "minecraft:taiga": "2025-05-10 04:11:23 +0000",
+      "minecraft:deep_ocean": "2025-05-11 01:50:52 +0000",
       "minecraft:cherry_grove": "2025-04-17 06:42:19 +0000",
       "minecraft:sunflower_plains": "2025-04-17 06:41:54 +0000",
       "minecraft:birch_forest": "2025-04-20 04:50:44 +0000",
@@ -60,6 +61,7 @@
       "minecraft:forest": "2025-04-17 05:40:05 +0000",
       "minecraft:desert": "2025-04-17 06:47:54 +0000",
       "minecraft:jungle": "2025-04-18 04:02:20 +0000",
+      "minecraft:ocean": "2025-05-11 01:50:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-10 04:10:57 +0000",
       "minecraft:windswept_savanna": "2025-04-17 20:10:35 +0000",
       "minecraft:warm_ocean": "2025-04-17 07:00:47 +0000",
@@ -8421,15 +8423,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-05-11 01:10:40 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-05-11 01:01:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-11 01:10:40 +0000"
     },
     "done": true
   },
@@ -8454,12 +8456,6 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-11 01:10:40 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:catacumbs_lugubrious": {
-    "criteria": {
-      "catacumbs_lugubrious_0": "2025-05-11 01:18:18 +0000"
     },
     "done": true
   },
@@ -8496,12 +8492,6 @@
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-11 01:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-11 01:12:58 +0000"
     },
     "done": true
   },
@@ -8553,9 +8543,123 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-11 01:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-11 01:12:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-05-11 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-05-11 01:53:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-05-11 01:53:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-11 01:56:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-05-11 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 02:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-11 02:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-05-11 02:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-11 02:12:14 +0000"
     },
     "done": true
   },

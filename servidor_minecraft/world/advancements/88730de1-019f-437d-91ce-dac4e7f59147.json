@@ -8762,5 +8762,47 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-05-11 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-05-11 01:54:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-11 01:58:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-05-11 01:59:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_underzealot": "2025-05-11 02:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-11 02:11:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

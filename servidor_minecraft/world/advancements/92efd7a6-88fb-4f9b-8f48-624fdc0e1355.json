@@ -5460,15 +5460,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
-      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
+      "discover": "2025-05-11 00:30:26 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/magnet": {
+  "alexscaves:alexscaves/neodymium": {
     "criteria": {
-      "scarlet": "2025-05-11 00:41:33 +0000"
+      "scarlet": "2025-05-11 00:35:02 +0000",
+      "azure": "2025-05-11 00:30:51 +0000"
     },
     "done": true
   },
@@ -5478,39 +5479,9 @@
     },
     "done": true
   },
-  "dungeons_and_combat:catacumbs_lugubrious": {
-    "criteria": {
-      "catacumbs_lugubrious_0": "2025-05-11 01:09:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-11 00:39:11 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "azure": "2025-05-11 00:41:27 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2025-05-11 00:30:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_boundroid": {
-    "criteria": {
-      "killed": "2025-05-11 00:43:16 +0000"
     },
     "done": true
   },
@@ -5520,9 +5491,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
-      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
+      "azure": "2025-05-11 00:41:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "scarlet": "2025-05-11 00:41:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-05-11 00:43:16 +0000"
     },
     "done": true
   },
@@ -5532,10 +5515,105 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/neodymium": {
+  "dungeons_and_combat:catacumbs_lugubrious": {
     "criteria": {
-      "scarlet": "2025-05-11 00:35:02 +0000",
-      "azure": "2025-05-11 00:30:51 +0000"
+      "catacumbs_lugubrious_0": "2025-05-11 01:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-11 01:13:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-11 01:36:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 01:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-11 01:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-11 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-11 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-05-11 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-05-11 01:56:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-05-11 01:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-11 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-05-11 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-11 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-11 02:11:49 +0000"
     },
     "done": true
   },
