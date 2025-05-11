@@ -5600,9 +5600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-11 04:31:23 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-05-11 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-11 04:31:23 +0000"
     },
     "done": true
   },
@@ -5615,6 +5627,12 @@
   "alexscaves:alexscaves/defeat_forsaken": {
     "criteria": {
       "killed": "2025-05-11 02:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-11 04:31:23 +0000"
     },
     "done": true
   },

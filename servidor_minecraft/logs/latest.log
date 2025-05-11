@@ -1076,3 +1076,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11May2025 04:02:11.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
 [11May2025 04:02:11.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
 [11May2025 04:17:17.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[11May2025 04:31:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Hidden in the Depths]
