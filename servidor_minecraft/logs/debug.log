@@ -7135,3 +7135,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11May2025 02:15:27.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Corrodon't]
 [11May2025 02:15:59.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Bug Repellent]
 [11May2025 02:16:01.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[11May2025 02:16:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [The Black Parade]
+[11May2025 02:16:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has reached the goal [The Black Parade]
+[11May2025 02:16:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [The Black Parade]
+[11May2025 02:16:58.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[11May2025 02:17:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has completed the challenge [Demonslayer]
+[11May2025 02:17:19.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[11May2025 02:18:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Corrodon't]
+[11May2025 02:19:05.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[11May2025 02:20:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has completed the challenge [Demonslayer]
+[11May2025 02:20:18.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:20:18.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:23:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
+[11May2025 02:24:45.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has completed the challenge [Demonslayer]
+[11May2025 02:25:17.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:25:18.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:25:19.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Blot Out The Sun]
+[11May2025 02:26:13.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[11May2025 02:26:31.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[11May2025 02:26:52.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
+[11May2025 02:27:11.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[11May2025 02:27:20.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 0.1138502743197023,24.22386116743102,51.138875052381536
+[11May2025 02:27:29.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
