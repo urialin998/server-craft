@@ -7233,3 +7233,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11May2025 03:36:43.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11May2025 03:39:51.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
 [11May2025 03:39:51.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[11May2025 03:41:43.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 03:41:43.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 03:46:43.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 03:46:43.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

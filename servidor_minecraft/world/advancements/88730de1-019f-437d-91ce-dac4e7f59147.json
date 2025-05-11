@@ -8822,6 +8822,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-05-11 03:46:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-05-11 02:16:45 +0000"
