@@ -5600,15 +5600,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-11 04:31:23 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-05-11 04:32:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-05-11 02:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
     },
     "done": true
   },
@@ -5642,6 +5666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-05-11 02:16:45 +0000"
@@ -5654,6 +5684,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-11 02:11:49 +0000"
@@ -5663,6 +5705,12 @@
   "alexscaves:alexscaves/moth_ball": {
     "criteria": {
       "moth_ball": "2025-05-11 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-11 04:35:24 +0000"
     },
     "done": true
   },
