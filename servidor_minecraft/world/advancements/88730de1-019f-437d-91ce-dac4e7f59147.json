@@ -8804,6 +8804,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-11 02:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-11 02:11:50 +0000"
@@ -8819,6 +8825,18 @@
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-05-11 02:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-05-11 02:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-11 02:57:30 +0000"
     },
     "done": true
   },
