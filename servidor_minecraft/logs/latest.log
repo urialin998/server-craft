@@ -1,78 +1,76 @@
-[11May2025 21:28:36.455] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[11May2025 21:28:36.461] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[11May2025 21:28:37.949] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[11May2025 21:28:38.032] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[11May2025 21:28:38.631] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 21:28:38.634] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 21:28:38.637] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 21:28:38.638] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 21:28:39.085] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11May2025 21:28:39.088] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[11May2025 21:28:44.012] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11May2025 21:28:44.267] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11May2025 21:28:44.940] [main/WARN] [mixin/]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
-[11May2025 21:28:44.988] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 80 options available, 0 override(s) found
-[11May2025 21:28:45.558] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[11May2025 21:28:45.560] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[11May2025 21:28:45.561] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
-[11May2025 21:28:46.699] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[11May2025 21:28:46.699] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[11May2025 21:28:46.749] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
-[11May2025 21:28:46.751] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
-[11May2025 21:28:46.754] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
-[11May2025 21:28:46.756] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
-[11May2025 21:28:46.806] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[11May2025 21:28:47.015] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
-[11May2025 21:28:47.018] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
-[11May2025 21:28:47.021] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[11May2025 21:28:47.024] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[11May2025 21:28:47.180] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
-[11May2025 21:28:47.182] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
-[11May2025 21:28:47.187] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
-[11May2025 21:28:47.188] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
-[11May2025 21:28:47.191] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
-[11May2025 21:28:47.192] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
-[11May2025 21:28:47.196] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
-[11May2025 21:28:47.196] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
-[11May2025 21:28:47.201] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
-[11May2025 21:28:47.201] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
-[11May2025 21:28:47.205] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
-[11May2025 21:28:47.205] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
-[11May2025 21:28:47.209] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
-[11May2025 21:28:47.210] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
-[11May2025 21:28:47.214] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
-[11May2025 21:28:47.216] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
-[11May2025 21:28:47.218] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[11May2025 21:28:47.219] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[11May2025 21:28:47.223] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[11May2025 21:28:47.225] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[11May2025 21:28:47.229] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[11May2025 21:28:47.230] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[11May2025 21:28:47.232] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
-[11May2025 21:28:47.233] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
-[11May2025 21:28:47.235] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[11May2025 21:28:47.236] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[11May2025 21:28:47.440] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11May2025 21:29:06.794] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[11May2025 21:41:30.482] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11May2025 21:41:30.492] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11May2025 21:41:31.500] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11May2025 21:41:31.561] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11May2025 21:41:32.004] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 21:41:32.006] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 21:41:32.009] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 21:41:32.011] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 21:41:32.411] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11May2025 21:41:32.414] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[11May2025 21:41:36.121] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11May2025 21:41:36.253] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11May2025 21:41:36.594] [main/WARN] [mixin/]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[11May2025 21:41:36.612] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 80 options available, 0 override(s) found
+[11May2025 21:41:36.903] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[11May2025 21:41:36.904] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[11May2025 21:41:36.905] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
+[11May2025 21:41:37.745] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[11May2025 21:41:37.748] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[11May2025 21:41:37.812] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[11May2025 21:41:37.813] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[11May2025 21:41:37.817] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[11May2025 21:41:37.818] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[11May2025 21:41:37.893] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[11May2025 21:41:38.196] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[11May2025 21:41:38.196] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
+[11May2025 21:41:38.200] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[11May2025 21:41:38.200] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[11May2025 21:41:38.376] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
+[11May2025 21:41:38.376] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
+[11May2025 21:41:38.380] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
+[11May2025 21:41:38.382] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
+[11May2025 21:41:38.388] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[11May2025 21:41:38.388] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
+[11May2025 21:41:38.392] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[11May2025 21:41:38.393] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
+[11May2025 21:41:38.397] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
+[11May2025 21:41:38.397] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
+[11May2025 21:41:38.401] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[11May2025 21:41:38.402] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[11May2025 21:41:38.408] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
+[11May2025 21:41:38.408] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
+[11May2025 21:41:38.412] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
+[11May2025 21:41:38.413] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
+[11May2025 21:41:38.417] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[11May2025 21:41:38.418] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[11May2025 21:41:38.422] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[11May2025 21:41:38.423] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[11May2025 21:41:38.427] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[11May2025 21:41:38.428] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[11May2025 21:41:38.432] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[11May2025 21:41:38.433] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[11May2025 21:41:38.435] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[11May2025 21:41:38.438] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[11May2025 21:41:38.647] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11May2025 21:41:50.495] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[11May2025 21:29:10.010] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[11May2025 21:29:10.279] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[11May2025 21:29:15.696] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[11May2025 21:29:15.697] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[11May2025 21:29:24.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[11May2025 21:29:24.298] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server-craft/servidor_minecraft/config/create_central_kitchen-common.toml is not correct. Correcting
-[11May2025 21:29:24.299] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key automation.boostingCookerList was corrected from [farmersdelight:cooking_pot, farmersdelight:skillet, miners_delight:copper_pot] to its default, [farmersdelight:cooking_pot, farmersdelight:skillet]. 
-[11May2025 21:29:26.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[11May2025 21:29:26.447] [main/INFO] [journeymap/]: Initializing Packet Registries
-[11May2025 21:29:26.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[11May2025 21:29:26.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11May2025 21:29:27.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[11May2025 21:29:27.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[11May2025 21:29:27.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[11May2025 21:29:27.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
-[11May2025 21:29:27.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.0.1-mc1.20.1 Target: null
-[11May2025 21:29:35.435] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11May2025 21:29:35.536] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
+[11May2025 21:41:53.276] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[11May2025 21:41:53.576] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[11May2025 21:41:58.574] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11May2025 21:41:58.575] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11May2025 21:42:07.020] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[11May2025 21:42:08.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[11May2025 21:42:08.468] [main/INFO] [journeymap/]: Initializing Packet Registries
+[11May2025 21:42:08.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[11May2025 21:42:08.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11May2025 21:42:08.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11May2025 21:42:08.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[11May2025 21:42:09.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[11May2025 21:42:09.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[11May2025 21:42:09.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.0.1-mc1.20.1 Target: null
+[11May2025 21:42:16.836] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11May2025 21:42:17.018] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
 java.io.EOFException: null
 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:?]
 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:?]
@@ -101,7 +99,7 @@ java.io.EOFException: null
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11May2025 21:29:35.543] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
+[11May2025 21:42:17.024] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
 java.io.EOFException: null
 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:?]
 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:?]
@@ -131,7 +129,7 @@ java.io.EOFException: null
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11May2025 21:29:35.554] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat_old
+[11May2025 21:42:17.029] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat_old
 java.io.EOFException: null
 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:?]
 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:?]
@@ -161,11 +159,11 @@ java.io.EOFException: null
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11May2025 21:29:35.576] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[11May2025 21:29:35.576] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[11May2025 21:29:35.850] [main/INFO] [com.simibubi.create.Create/]: Created 169 recipes which will be injected into the game
-[11May2025 21:29:35.865] [main/INFO] [com.simibubi.create.Create/]: Created 2 tags which will be injected into the game
-[11May2025 21:29:35.882] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
+[11May2025 21:42:17.044] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[11May2025 21:42:17.045] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[11May2025 21:42:17.291] [main/INFO] [com.simibubi.create.Create/]: Created 169 recipes which will be injected into the game
+[11May2025 21:42:17.307] [main/INFO] [com.simibubi.create.Create/]: Created 2 tags which will be injected into the game
+[11May2025 21:42:17.324] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
 java.io.EOFException: null
 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:?]
 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:?]
@@ -196,7 +194,7 @@ java.io.EOFException: null
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11May2025 21:29:35.884] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat_old
+[11May2025 21:42:17.329] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat_old
 java.io.EOFException: null
 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:?]
 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:?]
@@ -227,9 +225,9 @@ java.io.EOFException: null
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11May2025 21:29:35.971] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
-[11May2025 21:29:35.972] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create_central_kitchen:farmersdelight, loading it automatically
-[11May2025 21:29:37.610] [main/WARN] [net.minecraft.server.Main/]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
+[11May2025 21:42:17.400] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
+[11May2025 21:42:17.400] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create_central_kitchen:farmersdelight, loading it automatically
+[11May2025 21:42:18.874] [main/WARN] [net.minecraft.server.Main/]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
 java.util.concurrent.ExecutionException: java.io.UncheckedIOException: java.io.EOFException
 	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
 	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073) ~[?:?]
