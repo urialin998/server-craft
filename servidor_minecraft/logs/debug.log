@@ -7157,3 +7157,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11May2025 02:27:11.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
 [11May2025 02:27:20.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! 0.1138502743197023,24.22386116743102,51.138875052381536
 [11May2025 02:27:29.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[11May2025 02:28:03.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19446ms or 388 ticks behind
+[11May2025 02:28:16.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was doomed to fall
+[11May2025 02:28:20.015] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.SequencerInstructionsMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.SequencerInstructions
+[11May2025 02:28:20.016] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11May2025 02:28:20.016] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$c808e8$0 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[11May2025 02:28:20.016] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;ZZIII)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$c808e8$1 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[11May2025 02:28:20.174] [Server thread/DEBUG] [mixin/]: Mixing PressingBehaviourMixin from sliceanddice.mixins.json into com.simibubi.create.content.kinetics.press.PressingBehaviour
+[11May2025 02:28:20.175] [Server thread/DEBUG] [mixin/]: sliceanddice.mixins.json:PressingBehaviourMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11May2025 02:28:21.492] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[11May2025 02:28:21.493] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11May2025 02:28:31.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13061ms or 261 ticks behind
+[11May2025 02:28:50.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4457ms or 89 ticks behind
+[11May2025 02:29:03.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Applied effect Night Vision to 3 targets]
+[11May2025 02:29:09.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[11May2025 02:29:31.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11May2025 02:29:51.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
+[11May2025 02:30:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [An Alloy To Remember]
+[11May2025 02:30:32.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[11May2025 02:30:32.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11May2025 02:30:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
+[11May2025 02:30:57.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [Blot Out The Sun]
+[11May2025 02:31:20.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Black Velvet]
+[11May2025 02:31:24.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:31:25.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:31:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has reached the goal [Blot Out The Sun]
+[11May2025 02:34:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Chattering Teeth]
+[11May2025 02:36:25.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:36:25.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

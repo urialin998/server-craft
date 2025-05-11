@@ -8792,6 +8792,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-05-11 02:34:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-05-11 02:15:27 +0000"
@@ -8819,6 +8825,18 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-11 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-05-11 02:25:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2025-05-11 02:31:20 +0000"
     },
     "done": true
   },

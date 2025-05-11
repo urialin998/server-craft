@@ -8639,6 +8639,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-05-11 02:30:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
       "underzealot_sacrifice": "2025-05-11 02:16:45 +0000"
@@ -8666,6 +8672,12 @@
   "alexscaves:alexscaves/moth_ball": {
     "criteria": {
       "moth_ball": "2025-05-11 02:13:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-05-11 02:31:50 +0000"
     },
     "done": true
   },
