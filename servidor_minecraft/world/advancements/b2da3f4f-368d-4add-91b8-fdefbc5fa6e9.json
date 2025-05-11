@@ -8603,6 +8603,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-05-11 02:37:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-11 02:12:14 +0000"

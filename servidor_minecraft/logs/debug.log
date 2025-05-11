@@ -7185,3 +7185,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11May2025 02:34:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Chattering Teeth]
 [11May2025 02:36:25.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 02:36:25.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:37:53.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Come on and Slam]
+[11May2025 02:41:24.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:41:24.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:42:31.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O fell out of the world
+[11May2025 02:42:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was doomed to fall by Enderman
+[11May2025 02:42:42.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[11May2025 02:45:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[11May2025 02:46:28.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:46:28.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:46:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O hit the ground too hard
+[11May2025 02:48:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O hit the ground too hard
+[11May2025 02:49:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Hard]
+[11May2025 02:51:28.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:51:28.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:55:22.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Normal]
+[11May2025 02:56:28.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 02:56:28.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 02:57:33.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Cover Me with Diamonds]
